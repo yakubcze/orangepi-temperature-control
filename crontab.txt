@@ -1,0 +1,6 @@
+#sudo crontab -e
+
+MAILTO=jakub.mlynek32@gmail.com
+SHELL=/bin/bash
+*/5 * * * * cd /home/plex && python /home/plex/autofan.python
+*/5 * * * * /home/plex/tempwarn.sh
