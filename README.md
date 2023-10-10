@@ -4,3 +4,4 @@
 - tempwarn.sh - Skript který varuje při překročení hraniční hodnoty teploty. Ve spolupráci s cronem a postfixem pošle notifikaci na e-mail.
 - printtemp.sh - Jednoduchý skript pro vypsaní aktuální teploty CPU na terminál.
 - crontab.txt - Konfigurace CRON.
+- fan_drive.drawio - Blokové schéma navrženého MOSFET spínače pro spínání větráku.
